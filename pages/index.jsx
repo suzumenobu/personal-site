@@ -97,7 +97,7 @@ const Page = () => {
             Work in <NextLink href="/works/3bet"><Link>3bet</Link></NextLink> on sport plugs detection
           </BioSection>
           <BioSection>
-            <BioYear>2021 to 2022</BioYear>
+            <BioYear>2021 to 2023</BioYear>
             Work with <NextLink href="/works/haasOnline"><Link>Haas Online</Link></NextLink> on
             automating crypto trading bots setup
           </BioSection>
