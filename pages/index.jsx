@@ -107,7 +107,7 @@ const Page = () => {
             on <NextLink href="/works/pixelplex"><Link>Web3 antivirus</Link></NextLink>
           </BioSection>
           <BioSection>
-            <BioYear>early 2024 to mid 2024</BioYear>
+            <BioYear>early 2024 to late 2024</BioYear>
             Work as lead software developer
             on <NextLink href="/works/cyberpass"><Link>cyberpass</Link></NextLink>
           </BioSection>
