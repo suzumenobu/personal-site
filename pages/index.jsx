@@ -25,7 +25,7 @@ const Page = () => {
           mb={6}
           align="center"
         >
-          Hello, I&apos;m a software engineer!
+          Hey there!
         </Box>
 
         <Box display={{ md: 'flex' }}>
@@ -33,7 +33,7 @@ const Page = () => {
             <Heading as="h2" variant="page-title">
               Andrey Semenov
             </Heading>
-            <p>Python & Rust engineer</p>
+            <p>Full-stack developer</p>
           </Box>
           <Box
             flexsrink={0}
@@ -58,14 +58,14 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>
-            Andrey Semenov is a software engineer with a passion for building digital services/stuff
+            Andrey Semenov has passion for building digital services and tools
             he wants. He was a knack for all things launching products, from
             planning and designing all the way to solving real-ife problems with
-            code. In addition, he likes to customize operating systems and keyboards.
-            When not online, he loves hanging out with firends. Currently,
+            code. In addition, he likes to customize linux setup, GNU Emacs and keyboards.
+            When not online, he loves explore music, drink coffee and study. Currently,
             he is working on {' '}
-            <NextLink href="/works/cyberpass">
-              <Link>cyberpass</Link>
+            <NextLink href="/works/aishift">
+              <Link>AIshift</Link>
             </NextLink>
             .
           </Paragraph>
@@ -88,7 +88,7 @@ const Page = () => {
             Born in Kazan
           </BioSection>
           <BioSection>
-            <BioYear>2020 to present</BioYear>
+            <BioYear>2020 to 2023</BioYear>
             Graduates in Moscow Technical University of Communications and
             Informatics
           </BioSection>
@@ -107,9 +107,14 @@ const Page = () => {
             on <NextLink href="/works/pixelplex"><Link>Web3 antivirus</Link></NextLink>
           </BioSection>
           <BioSection>
-            <BioYear>2024 to present</BioYear>
+            <BioYear>early 2024 to mid 2024</BioYear>
             Work as lead software developer
             on <NextLink href="/works/cyberpass"><Link>cyberpass</Link></NextLink>
+          </BioSection>
+          <BioSection>
+            <BioYear>2024 to present</BioYear>
+            Work as tech co-founder
+            in <NextLink href="/works/aishift"><Link>AIshift</Link></NextLink>
           </BioSection>
         </Section>
 
