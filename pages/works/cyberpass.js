@@ -19,6 +19,12 @@ const Work = () => {
         </P>
         <List ml={4} my={4}>
           <ListItem>
+            <Meta>Website</Meta>
+            <Link href="https://cyberpass.tech/">
+              https://cyberpass.tech/ <ExternalLinkIcon mx="2px" />
+            </Link>
+          </ListItem>
+          <ListItem>
             <Meta>Position</Meta>
             Lead software developer
           </ListItem>
